@@ -10,7 +10,6 @@ od_mode_vol_45.CSV: Origin-destination flows by mode, including tons (000) and $
 ui.R and server.R: R scripts for the R shiny web application
 
 
-Refer to this Medium article that breaks down the code step by step:
 
 
 
